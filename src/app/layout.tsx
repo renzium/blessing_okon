@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: 'Blessing Okon Portfolio',
     images: [
       {
-        url: '/assets/images/blessing-hero.png', // Corrected path 'images'
+        url: '/assets/images/logo.png', // Corrected path 'images'
         width: 1200,
         height: 630,
         alt: 'Blessing Okon Portfolio Preview',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Blessing Okon | Portfolio',
     description: 'Administrative Lead & Creative Designer.',
-    images: ['/assets/images/blessing-hero.png'], 
+    images: ['/assets/images/logo.png'], 
   },
 };
 
