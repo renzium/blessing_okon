@@ -1,9 +1,9 @@
-import ParallaxCarousel from "@/components/ParallaxCarousel";
+import MainPage from "@/components/";
 
 export default function Home() {
   return (
     <main className="w-full">
-      <ParallaxCarousel />
+      <MainPage />
     </main>
   );
 }

@@ -1,0 +1,586 @@
+{
+  "site": {
+    "name": "Blessing Okon",
+    "email": "beeokon68@gmail.com"
+  },
+  "hero": {
+    "portrait": {
+      "src": "/assets/images/blessing-hero.png",
+      "alt": "Blessing Okon"
+    },
+    "firstName": "BLESSING",
+    "lastName": "OKON",
+    "tagline": [
+      {
+        "text": "An "
+      },
+      {
+        "text": "Administrative Support Specialist",
+        "style": "strong"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Project Manager",
+        "style": "strong"
+      },
+      {
+        "text": " bridging the gap between "
+      },
+      {
+        "text": "Operational Efficiency",
+        "style": "emerald"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Creative Excellence",
+        "style": "indigo"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "ctas": [
+      {
+        "label": "VIEW PORTFOLIO",
+        "href": "#trajectory",
+        "variant": "primary"
+      },
+      {
+        "label": "GET IN TOUCH",
+        "href": "mailto:{email}",
+        "variant": "secondary"
+      }
+    ],
+    "badges": [
+      {
+        "id": "operations",
+        "type": "status",
+        "position": "left",
+        "label": "Operations",
+        "lines": [
+          "Data Integrity: 100%",
+          "Stakeholder Ready"
+        ],
+        "parallax": 0.12
+      },
+      {
+        "id": "creative",
+        "type": "icon",
+        "position": "right",
+        "icon": "layers",
+        "lines": [
+          "UI/UX & Fashion",
+          "Strategy"
+        ],
+        "parallax": -0.08
+      }
+    ]
+  },
+  "skills": {
+    "heading": [
+      "VERSATILE",
+      "EXPERTISE"
+    ],
+    "subtitle": "A synthesis of linguistic precision, organizational leadership, and visual storytelling.",
+    "cards": [
+      {
+        "theme": "emerald",
+        "eyebrow": "Admin Support",
+        "title": "Operations",
+        "body": "Expert in NOMIS 3.0 and USAID project reporting. Streamlining complex data workflows with 100% accuracy."
+      },
+      {
+        "theme": "featured",
+        "eyebrow": "Core Proficiency",
+        "title": "Project Mgmt.",
+        "body": "Google-Certified lifecycle management. Coordinating stakeholders, timelines, and deliverables across virtual platforms."
+      },
+      {
+        "theme": "indigo",
+        "eyebrow": "Creative Core",
+        "title": "Visual Design",
+        "body": "Bringing a linguistic lens to UI/UX and Fashion design. Crafting brand identities that communicate and convert."
+      }
+    ]
+  },
+  "experience": {
+    "id": "trajectory",
+    "eyebrow": "Trajectory",
+    "heading": [
+      "IMPACT &",
+      "EXPERIENCE."
+    ],
+    "items": [
+      {
+        "theme": "violet",
+        "period": "2026 - Present",
+        "company": "Customer Support Associate - Compliance & Review",
+        "description": [
+          {
+            "text": "Serving as the "
+          },
+          {
+            "text": "Administrative Support Officer",
+            "style": "white"
+          },
+          {
+            "text": ". I manage high-traffic front desk operations and internal communications while doubling as the lead creative for training materials."
+          }
+        ],
+        "tags": [
+          {
+            "label": "Merchant Onboarding"
+          },
+          {
+            "label": "Account Review",
+            "tone": "accent"
+          },
+          {
+            "label": "Email & Phone Supporting",
+            "tone": "neutral"
+          },
+          {
+            "label": "Inbound & Outbound Ticketing",
+            "tone": "neutral"
+          }
+        ],
+        "highlight": {
+          "label": "DYNAMIC ROLE:",
+          "quote": "Successfully coordinated training sessions and events by blending organizational scheduling with custom visual assets.",
+          "parallax": 0.04
+        }
+      },
+      {
+        "theme":  "amber",
+        "period": "2024 — 2025",
+        "company": "Customer Support Specialist",
+        "description": [
+          {
+            "text": "Serving as the "
+          },
+          {
+            "text": "Administrative Support Officer",
+            "style": "white"
+          },
+          {
+            "text": ". I manage high-traffic front desk operations and internal communications while doubling as the lead creative for training materials."
+          }
+        ],
+        "tags": [
+          {
+            "label": "Live Ticketing",
+            "tone": "accent"
+          },
+          {
+            "label": "Email & Phone Support",
+            "tone": "accent"
+          },
+          {
+            "label": "Escalation Management",
+            "tone": "neutral"
+          }
+        ],
+        "highlight": {
+          "label": "DYNAMIC ROLE:",
+          "quote": "Successfully coordinated training sessions and events by blending organizational scheduling with custom visual assets.",
+          "parallax": 0.04
+        }
+      },
+      {
+        "theme": "indigo",
+        "period": "2024 — 2025",
+        "company": "The DreamPOD Place",
+        "description": [
+          {
+            "text": "Serving as the "
+          },
+          {
+            "text": "Administrative Support Officer",
+            "style": "white"
+          },
+          {
+            "text": ". I manage high-traffic front desk operations and internal communications while doubling as the lead creative for training materials."
+          }
+        ],
+        "tags": [
+          {
+            "label": "Admin Ops",
+            "tone": "accent"
+          },
+          {
+            "label": "Event Coordination",
+            "tone": "accent"
+          },
+          {
+            "label": "Canva / Design",
+            "tone": "neutral"
+          }
+        ],
+        "highlight": {
+          "label": "DYNAMIC ROLE:",
+          "quote": "Successfully coordinated training sessions and events by blending organizational scheduling with custom visual assets.",
+          "parallax": 0.04
+        }
+      },
+      {
+        "theme": "emerald",
+        "period": "2023 — 2024",
+        "company": "Heal the Land Initiative / CCCRN",
+        "description": [
+          {
+            "text": "Data Entry Clerk & Administrative Assistant",
+            "style": "white"
+          },
+          {
+            "text": " for the USAID-funded ICHSSA Lot 1 project. Managed sensitive household data and supported M&E reporting."
+          }
+        ],
+        "tags": [
+          {
+            "label": "NOMIS 3.0",
+            "tone": "accent"
+          },
+          {
+            "label": "USAID Reporting",
+            "tone": "accent"
+          },
+          {
+            "label": "Data Quality",
+            "tone": "neutral"
+          }
+        ],
+        "highlight": {
+          "label": "PRECISION IMPACT:",
+          "quote": "Ensured 100% data accuracy for vulnerable household enrollments and service delivery tracking.",
+          "parallax": 0.02
+        }
+      },
+      {
+        "theme": "neutral",
+        "period": "2021 — 2023",
+        "company": "Ndifreke Ukpe & Co",
+        "description": [
+          {
+            "text": "Legal Front Desk Officer",
+            "style": "white"
+          },
+          {
+            "text": ". Managed confidential legal files, court-related scheduling, and professional correspondence for a fast-paced solicitors' firm."
+          }
+        ],
+        "tags": [
+          {
+            "label": "Case Management",
+            "tone": "neutral"
+          },
+          {
+            "label": "Client Relations",
+            "tone": "neutral"
+          }
+        ]
+      }
+    ]
+  },
+  "tools": {
+    "eyebrow": "Stack & Systems",
+    "heading": [
+      "THE TOOLS",
+      "OF IMPACT."
+    ],
+    "categories": [
+      {
+        "theme": "emerald",
+        "title": "CRM",
+        "tools": [
+          {
+            "name": "Front",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "trello"
+            }
+          },
+          {
+            "name": "Beehive",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive1",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive2",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive3",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive4",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive5",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive6",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive7",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Beehive8",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "asana"
+            }
+          },
+          {
+            "name": "Hubspot",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "clickup"
+            }
+          },
+          {
+            "name": "Freshdesk",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "notion"
+            }
+          }
+        ]
+      },
+      {
+         "theme": "indigo",
+        "title": "Project Management",
+        "tools": [
+          { "name": "Trello", "icon": { "type": "simpleicons", "slug": "trello" } },
+          { "name": "Asana", "icon": { "type": "simpleicons", "slug": "asana" } },
+          { "name": "ClickUp", "icon": { "type": "simpleicons", "slug": "clickup" } },
+          { "name": "Notion", "icon": { "type": "simpleicons", "slug": "notion" } }
+        ]
+      },
+      {
+        "theme": "dark",
+        "title": "Data & Operations",
+        "tools": [
+          {
+            "name": "NOMIS 3.0",
+            "icon": {
+              "type": "text",
+              "label": "N3"
+            }
+          },
+          {
+            "name": "MS Excel",
+            "icon": {
+              "type": "image",
+              "src": "/assets/images/ms_excel.svg"
+            }
+          },
+          {
+            "name": "G-Sheets",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "googlesheets",
+              "color": "34d399"
+            }
+          },
+          {
+            "name": "Workspace",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "google",
+              "color": "34d399"
+            }
+          }
+        ]
+      },
+      {
+        "theme": "indigo",
+        "title": "Creative Suite",
+        "tools": [
+          {
+            "name": "Figma",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "figma"
+            }
+          },
+          {
+            "name": "CorelDraw",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "coreldraw"
+            }
+          },
+          {
+            "name": "Canva",
+            "icon": {
+              "type": "image",
+              "src": "/assets/images/canva.svg"
+            }
+          },
+          {
+            "name": "Adobe Suite",
+            "icon": {
+              "type": "image",
+              "src": "https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg"
+            }
+          }
+        ]
+      },
+      {
+        "theme": "indigo",
+        "title": "Communication",
+        "tools": [
+          {
+            "name": "Slack",
+            "icon": {
+              "type": "image",
+              "src": "/assets/images/slack.svg"
+            }
+          },
+          {
+            "name": "Zoom",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "zoom"
+            }
+          },
+          {
+            "name": "MS Teams",
+            "icon": {
+              "type": "image",
+              "src": "/assets/images/ms_teams.svg"
+            }
+          },
+          {
+            "name": "Mendeley",
+            "icon": {
+              "type": "simpleicons",
+              "slug": "mendeley"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "backgroundWord": "BLESSING",
+    "eyebrow": "Intellectual Foundation",
+    "heading": [
+      "LINGUISTIC",
+      "PRECISION."
+    ],
+    "paragraphs": [
+      {
+        "lead": true,
+        "content": [
+          {
+            "text": "With a "
+          },
+          {
+            "text": "Bachelor of Arts in Linguistics",
+            "style": "strong"
+          },
+          {
+            "text": " from the University of Uyo, Blessing approaches administration through the lens of structural clarity."
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "text": "She doesn't just process files; she ensures the "
+          },
+          {
+            "text": "integrity of language",
+            "style": "emeraldItalic"
+          },
+          {
+            "text": "—making her an indispensable asset for legal documentation and complex stakeholder reporting."
+          }
+        ]
+      }
+    ],
+    "degree": {
+      "label": "Degree Conferred",
+      "value": "B.A. Linguistics, UniUyo"
+    },
+    "strengths": [
+      {
+        "title": "Document Integrity",
+        "description": "Expert proofreading and semantic analysis for legal correspondence and technical data registers."
+      },
+      {
+        "title": "Stakeholder Bridge",
+        "description": "Translating complex project requirements into clear, actionable administrative workflows."
+      },
+      {
+        "title": "Information Hierarchy",
+        "description": "Using linguistic logic to organize database structures and project management boards."
+      }
+    ]
+  },
+  "footer": {
+    "backgroundWord": "Available",
+    "heading": [
+      "LET'S BUILD",
+      "SUCCESS."
+    ],
+    "text": "Currently open to Administrative Lead, Project Management, and Design opportunities. Let’s discuss how my blend of precision and creativity can help your team.",
+    "cta": {
+      "label": "Get In Touch",
+      "href": "mailto:{email}"
+    },
+    "socials": [
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/okon-blessing001"
+      }
+      ,
+      {
+        "label": "Instagram",
+        "href": "#"
+      },
+      {
+        "label": "Behance",
+        "href": "#"
+      }
+    ],
+    "copyright": "© 2026 BLESSING OKON — ALL RIGHTS RESERVED"
+  }
+}
